@@ -41,4 +41,3 @@ Each change has an associated cost, including:
 - Modifying assignments
 
 The solver minimizes total reconfiguration cost while restoring consistency.
-
