@@ -16,4 +16,3 @@ The solver was evaluated across multiple scenarios:
 - Reconfiguration introduces significant complexity
 - Optimization yields multiple valid minimal-cost solutions
 - Solver runtime increases rapidly with instance size
-
