@@ -32,4 +32,3 @@ Solver outputs are interpreted using predicates such as:
 - `cabinetHigh/1`, `cabinetSmall/1`
 
 Each answer set corresponds to a complete and valid house configuration.
-
