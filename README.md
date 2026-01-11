@@ -56,5 +56,3 @@ Each visual corresponds to a specific problem instance discussed in the evaluati
 This project was completed as part of graduate-level coursework on **knowledge representation and reasoning**, based on established formulations of the House (Re-)Configuration Problem from prior research.
 
 All figures and problem descriptions are used with academic attribution.
-
----
