@@ -5,4 +5,3 @@
 - Ryabokon, A. (2015). *Knowledge-Based (Re)Configuration of Complex Products and Services*
 
 Problem formulation and examples are derived from these works with academic attribution.
-
