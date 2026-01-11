@@ -10,4 +10,3 @@ The model enforces the following constraints:
 - Ownership consistency across rooms
 
 These constraints are expressed as hard rules in ASP.
-
