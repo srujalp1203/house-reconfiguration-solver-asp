@@ -8,4 +8,3 @@ Optimization minimizes the total reconfiguration cost by considering:
 - Cost of reassignment
 
 All costs are configurable, enabling exploration of alternative optimal solutions.
-
