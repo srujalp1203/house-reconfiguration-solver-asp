@@ -24,4 +24,3 @@ The House (Re-)Configuration Problem defines how items owned by persons can be s
 
 - A room may contain cabinets belonging to only one person
 - Cabinets may store only items owned by that person
-
