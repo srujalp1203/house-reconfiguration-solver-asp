@@ -19,4 +19,3 @@ The solver follows a two-stage strategy:
 - Larger instances increase grounding and solving time
 
 Solver performance varies significantly with constraint density and problem size.
-
