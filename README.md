@@ -36,5 +36,25 @@ The problem exists in two forms:
 
 ---
 
-## Repository Structure
+## Visual Results
 
+Representative solver outputs are provided in the `visuals/` directory, including:
+
+- Basic house configuration
+- Reconfiguration from legacy state
+- Long-item constraints
+- Cabinet resizing
+- New room creation
+- Empty starting configuration
+
+Each visual corresponds to a specific problem instance discussed in the evaluation.
+
+---
+
+## Academic Context
+
+This project was completed as part of graduate-level coursework on **knowledge representation and reasoning**, based on established formulations of the House (Re-)Configuration Problem from prior research.
+
+All figures and problem descriptions are used with academic attribution.
+
+---
